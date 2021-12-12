@@ -1,4 +1,4 @@
-# Retro-ZXSpectrum-Misalliance
+# MISALLIANCE
 
 256 bytes intro
 1st place @Silly Venture 2k1
