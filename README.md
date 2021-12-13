@@ -1,7 +1,7 @@
 # MISALLIANCE
 
 256 bytes intro
-1st place @Silly Venture 2k1
+1st place @Silly Venture 2k21
 ## Tech
 * ZX Spectrum 48
 * Z80 Assembler ( <=256 bytes executable size)
